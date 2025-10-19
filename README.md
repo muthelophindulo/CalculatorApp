@@ -34,8 +34,9 @@ UI details:
 - Layout uses Columns and Rows for the button grid; each button uses Modifier.weight to size evenly.
 
 ---
-<img width="296" height="635" alt="image" src="https://github.com/user-attachments/assets/b4644685-0be9-466a-8be4-cf480f66c8c1" />
-
+## Screenshot
+- <img width="296" height="635" alt="image" src="https://github.com/user-attachments/assets/b4644685-0be9-466a-8be4-cf480f66c8c1" />
+---
 ## Files of interest
 - app/src/main/java/com/example/myapplication/CalculatorApp.kt — main Composable and button logic
 
