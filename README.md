@@ -35,7 +35,7 @@ UI details:
 
 ---
 ## Screenshot
-- <img width="296" height="250" alt="image" src="https://github.com/user-attachments/assets/b4644685-0be9-466a-8be4-cf480f66c8c1" />
+- <img width="120" height="250" alt="image" src="https://github.com/user-attachments/assets/b4644685-0be9-466a-8be4-cf480f66c8c1" />
 ---
 ## Files of interest
 - app/src/main/java/com/example/myapplication/CalculatorApp.kt — main Composable and button logic
